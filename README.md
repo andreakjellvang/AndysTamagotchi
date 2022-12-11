@@ -1,11 +1,8 @@
-## Andy's Tamagotchi! 
-
-My term project will be titled __*Andy's Tamagotchi*__. 
+# Andy's Tamagotchi
+**Welcome to Andy's Tamagotchi** :video_game: :hearts: :dog: . 
 
 #### Description
-On Andy's Tamagotchi you select a pet and take care of it. You will be able to give the pet a bath, feed it, and pet it. 
-When you take good care of your pet you will receive money. You can use the money in the shop to buy other types of food, soaps or clothes that increases the happiness-level of your pet.  
+On Andy's Tamagotchi you have to take care of your pet. The pet has a happiness level that is continously decreasing, and to make sure the level stays high, you have to give it food and love, keep it healthy and play with it. 
 
-Each pet comes with an instruction. If you do something to your pet that it doesn't like, your pet's happiness-level will decrease. 
 
-**Animal welfare is important!**
+
