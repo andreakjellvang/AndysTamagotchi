@@ -4,7 +4,8 @@
 ### Description
 On Andy's Tamagotchi you have to take care of your pet. The pet has a happiness level that is continously decreasing, and to make sure the level stays high, you have to give it food and love, keep it healthy and play with it. 
 
-
+### Programming language
+Andy's Tamagotchi is programmed with Python and is mainly based on the Pygame library, so make sure you have this installed on your computer.
 
 
 <img width="996" alt="Skjermbilde 2022-12-11 kl  11 20 23" src="https://user-images.githubusercontent.com/74141772/206883499-2d674555-fb1e-49f1-a4b8-9be3d00b7545.png">
