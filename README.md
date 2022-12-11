@@ -6,3 +6,7 @@ On Andy's Tamagotchi you have to take care of your pet. The pet has a happiness 
 
 
 
+
+<img width="996" alt="Skjermbilde 2022-12-11 kl  11 20 23" src="https://user-images.githubusercontent.com/74141772/206883499-2d674555-fb1e-49f1-a4b8-9be3d00b7545.png">
+
+
